@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   <img src="https://i.ibb.co/4sDFqQj/descarga.png">
+   <img style="width:650px" src="https://i.ibb.co/4sDFqQj/descarga.png">
 </p>
 
 ## Autores
