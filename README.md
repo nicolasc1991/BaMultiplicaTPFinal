@@ -23,5 +23,4 @@
 </p>
 
 ## Autores
-
-| [<img src="https://img.freepik.com/vector-premium/rostro-completo-adolescente-aislado-sobre-fondo-blanco-ilustracion-vectorial-avatar-redes-sociales_125869-1785.jpg?w=2000" width=115><br><sub>Nicolás Cosentino</sub>](https://github.com/nicolasc1991) |
+[<img src="https://img.freepik.com/vector-premium/rostro-completo-adolescente-aislado-sobre-fondo-blanco-ilustracion-vectorial-avatar-redes-sociales_125869-1785.jpg?w=2000" width=115><br><sub>Nicolás Cosentino</sub>](https://github.com/nicolasc1991)
