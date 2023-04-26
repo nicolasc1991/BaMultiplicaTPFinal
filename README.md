@@ -15,11 +15,11 @@
 \## Imagenes del proyecto
 
 <p align="center">
-   <img src="https://i.ibb.co/TYX333t/Whats-App-Image-2023-04-17-at-00-48-07.jpg">
+   <img src="">
 </p>
 
 <p align="center">
-   <img src="https://i.ibb.co/tqdHbNr/Whats-App-Image-2023-04-17-at-00-48-06.jpg">
+   <img src="">
 </p>
 
 ## Autores
