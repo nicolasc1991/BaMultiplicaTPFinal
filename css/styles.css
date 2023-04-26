@@ -1314,3 +1314,9 @@ body.is-menu-visible #menu .close {
     padding: 0 1.25em;
   }
 }
+
+@media screen and (max-width: 667px) {
+  iframe {
+    display: none;
+  }
+}
