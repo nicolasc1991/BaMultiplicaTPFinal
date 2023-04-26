@@ -466,27 +466,6 @@ textarea {
   min-height: 3.75em;
 }
 
-/* Box
-
-.box {
-  border-radius: 4px;
-  border: solid 1px #c9c9c9;
-  margin-bottom: 2em;
-  padding: 1.5em;
-}
-
-.box > :last-child,
-.box > :last-child > :last-child,
-.box > :last-child > :last-child > :last-child {
-  margin-bottom: 0;
-}
-
-.box.alt {
-  border: 0;
-  border-radius: 0;
-  padding: 0;
-} */
-
 /* Image */
 
 .imagen {
@@ -575,7 +554,7 @@ input[type="submit"].primary:active{
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  postiion: relative;
+  position: relative;
   margin: -2.5em 0 0 -2.5em;
 }
 
@@ -844,14 +823,14 @@ body.is-touch .animales article .content {
   vertical-align: middle;
 }
 
-#header .logo .symbol {
+#header .logo .simbolo {
   margin-right: 0.65em;
 }
 
-#header .logo .symbol img {
+#header .logo .simbolo img {
   display: block;
-  width: 2em;
-  height: 2em;
+  width: 3em;
+  height: 3em;
 }
 
 #header nav {
