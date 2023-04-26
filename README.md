@@ -15,11 +15,11 @@
 \## Imagenes del proyecto
 
 <p align="center">
-   <img src="">
+   <img src="https://i.ibb.co/Xsvs5NR/Screenshot-1.png">
 </p>
 
 <p align="center">
-   <img src="">
+   <img src="https://i.ibb.co/4sDFqQj/descarga.png">
 </p>
 
 ## Autores
