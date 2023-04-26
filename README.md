@@ -1,7 +1,7 @@
 <h1 align="center"># Trabajo Final B.A Multiplica 2.0</h1>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN-PROCESO-green">
+   <img src="https://img.shields.io/badge/STATUS-EN PROCESO-green">
 </p>
 
 \## 📁 Acceso al proyecto
