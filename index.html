@@ -67,7 +67,7 @@
               <span class="imagen">
                 <img src="img/perro1.jpg" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Chispita</h2>
                 <div class="content">
                   <p>
@@ -81,7 +81,7 @@
               <span class="imagen">
                 <img src="img/perro2.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Thor</h2>
                 <div class="content">
                   <p>
@@ -95,7 +95,7 @@
               <span class="imagen">
                 <img src="img/perro7.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Roco</h2>
                 <div class="content">
                   <p>
@@ -108,7 +108,7 @@
               <span class="imagen">
                 <img src="img/perro4.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Elmer</h2>
                 <div class="content">
                   <p>
@@ -122,7 +122,7 @@
               <span class="imagen">
                 <img src="img/perro5.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Pelos</h2>
                 <div class="content">
                   <p>
@@ -136,7 +136,7 @@
               <span class="imagen">
                 <img src="img/perro6.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Chip</h2>
                 <div class="content">
                   <p>
@@ -150,7 +150,7 @@
               <span class="imagen">
                 <img src="img/gato1.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Cielo</h2>
                 <div class="content">
                   <p>
@@ -164,7 +164,7 @@
               <span class="imagen">
                 <img src="img/gato2.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Pelusa</h2>
                 <div class="content">
                   <p>
@@ -178,7 +178,7 @@
               <span class="imagen">
                 <img src="img/gato3.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Gargamel</h2>
                 <div class="content">
                   <p>
@@ -192,7 +192,7 @@
               <span class="imagen">
                 <img src="img/gato4.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Arcoiris</h2>
                 <div class="content">
                   <p>
@@ -206,7 +206,7 @@
               <span class="imagen">
                 <img src="img/gato5.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Nieve</h2>
                 <div class="content">
                   <p>
@@ -220,7 +220,7 @@
               <span class="imagen">
                 <img src="img/gato6.jfif" alt="" />
               </span>
-              <a href="#">
+              <a>
                 <h2>Bigote</h2>
                 <div class="content">
                   <p>
@@ -240,7 +240,7 @@
               ¿Estás interesado en adoptar?
             </h2>
             <h4 class="tituloAdoptame">Contactanos</h4>
-            <form method="post" action="#">
+            <form method="post" action="#" id="formContacto">
               <div class="campos">
                 <div class="campo medio">
                   <input
@@ -248,6 +248,7 @@
                     name="nombre"
                     id="nombre"
                     placeholder="Ingrese su nombre..."
+                    required
                   />
                 </div>
                 <div class="campo medio">
@@ -256,6 +257,7 @@
                     name="email"
                     id="email"
                     placeholder="Ingrese su dirección de email..."
+                    required
                   />
                 </div>
                 <div class="campo">
@@ -263,6 +265,7 @@
                     name="mensaje"
                     id="mensaje"
                     placeholder="Ingrese su mensaje..."
+                    required
                   ></textarea>
                 </div>
               </div>
@@ -273,6 +276,7 @@
                     type="submit"
                     value="Enviar"
                     class="primary"
+                    id="enviar"
                   />
                 </li>
               </ul>
@@ -311,12 +315,13 @@
       </footer>
     </div>
 
-    <!-- Scripts -->
-    <script type="text/javascript"></script>
+    <!-- INCORPORAMOS JQUERY -->
     <script src="scripts/jquery.min.js"></script>
+    <!-- SCRIPT PARA EL MENU -->
     <script src="scripts/browser.min.js"></script>
+    <!-- SCRIPT PARA LAS ANIMACIONES DE LAS IMAGENES -->
     <script src="scripts/breakpoints.min.js"></script>
-    <script src="scripts/util.js"></script>
+    <!-- <script src="scripts/util.js"></script> -->
     <script src="scripts/main.js"></script>
     <script src="scripts/confirmar.js"></script>
   </body>

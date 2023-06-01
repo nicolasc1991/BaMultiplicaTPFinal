@@ -1,8 +1,16 @@
-function confirmarEnvio() {
-  if (confirm("¿Esta seguro de adoptar?!") == true) {
-    alert("Gracias por adoptar")
-  } else {
-    alert("Te esperamos cuando estes seguro de adoptar")
-    location.reload();
-  }
-}
+document
+  .getElementById("formContacto")
+  .addEventListener("submit", function (event) {
+    var nombre = document.getElementById("nombre").value;
+    var email = document.getElementById("email").value;
+    var mensaje = document.getElementById("mensaje").value;
+
+    var confirmation = confirm("¿Usted está seguro de adoptar?");
+
+    if (!confirmation) {
+      alert("Te esperamos cuando estes seguro de adoptar");
+      event.preventDefault();
+    } else {
+      alert("Gracias por adoptar");
+    }
+  });
