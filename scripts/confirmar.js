@@ -12,5 +12,7 @@ document
       event.preventDefault();
     } else {
       alert("Gracias por adoptar");
+      event.preventDefault();
+      window.location.href = "https://nicolasc1991.github.io/BaMultiplicaTPFinal/";
     }
   });
