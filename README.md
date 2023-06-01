@@ -6,7 +6,7 @@
 
 <h3 align="center"># Descripción del proyecto #</h3>
 
-<h5 align="center"><b>El proyecto tiene como fin, la idea de que perros que fueron abandonados por sus familias o rescatados de la calle encuentren su nueva familia para pasar el resto de su vida.</b></h5>
+<h5 align="center"><b>El proyecto tiene como fin, la idea de que todos los animales que fueron abandonados por sus familias o rescatados de la calle encuentren su nueva familia para pasar el resto de su vida.</b></h5>
 
 \## 📁 Acceso al proyecto
 
