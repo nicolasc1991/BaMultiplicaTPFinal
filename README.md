@@ -1,7 +1,7 @@
 <h1 align="center"># Trabajo Final B.A Multiplica 2.0</h1>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN-PROCESO-green">
+   <img src="https://img.shields.io/badge/STATUS-EN PROCESO-green">
 </p>
 
 <h3 align="center"># Descripción del proyecto</h3>
@@ -19,13 +19,12 @@
 \## Imagenes del proyecto
 
 <p align="center">
-   <img src="https://i.ibb.co/TYX333t/Whats-App-Image-2023-04-17-at-00-48-07.jpg">
+   <img src="https://i.ibb.co/Xsvs5NR/Screenshot-1.png">
 </p>
 
 <p align="center">
-   <img src="https://i.ibb.co/tqdHbNr/Whats-App-Image-2023-04-17-at-00-48-06.jpg">
+   <img style="width:650px" src="https://i.ibb.co/4sDFqQj/descarga.png">
 </p>
 
 ## Autores
-
-| [<img src="https://img.freepik.com/vector-premium/rostro-completo-adolescente-aislado-sobre-fondo-blanco-ilustracion-vectorial-avatar-redes-sociales_125869-1785.jpg?w=2000" width=115><br><sub>Nicolás Cosentino</sub>](https://github.com/nicolasc1991) |
+[<img src="https://img.freepik.com/vector-premium/rostro-completo-adolescente-aislado-sobre-fondo-blanco-ilustracion-vectorial-avatar-redes-sociales_125869-1785.jpg?w=2000" width=115><br><sub>Nicolás Cosentino</sub>](https://github.com/nicolasc1991)
